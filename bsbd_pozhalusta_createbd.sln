@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bsbd_pozhalusta_createbd", "bsbd_pozhalusta_createbd\bsbd_pozhalusta_createbd.csproj", "{83A1AC6C-F4E1-476C-9B73-A23B1DA68F2B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{83A1AC6C-F4E1-476C-9B73-A23B1DA68F2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83A1AC6C-F4E1-476C-9B73-A23B1DA68F2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83A1AC6C-F4E1-476C-9B73-A23B1DA68F2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83A1AC6C-F4E1-476C-9B73-A23B1DA68F2B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BCBE1D62-E30C-4D38-80EC-75AE61C1A12D}
+	EndGlobalSection
+EndGlobal
